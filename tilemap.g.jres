@@ -1,0 +1,31 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA4MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MGEwYTBhMDkwNjAyMDkwOTBhMGEwYTA5MDkwOTA5MDkwYTA5MGEwOTA2MDIwOTA5MGEwYTBhMDkwOTA5MDkwOTBhMGEwYTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MGEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwYTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MGEwYTBhMGEwYTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwYTBhMGEwYTBhMDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDQwNjAzMDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath5",
+            "sprites.builtin.forestTiles0"
+        ],
+        "displayName": "Test"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
