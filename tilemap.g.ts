@@ -71,7 +71,7 @@ T T . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 T T . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . T T
 T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T
 T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T
-`, [sprites.castle.tileGrass,sprites.castle.tilePath1,sprites.builtin.forestTiles0], TileScale.Sixteen);
+`, [sprites.castle.tileGrass2,sprites.castle.tilePath1,sprites.builtin.forestTiles0], TileScale.Sixteen);
         }
         return null;
     })
